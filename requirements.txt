@@ -1,0 +1,17 @@
+python-dotenv>=1.0.0
+streamlit>=1.27.0
+PyPDF2>=3.0.0
+python-docx>=0.8.11
+pytesseract>=0.3.10
+Pillow>=10.0.0
+langchain>=0.2.0
+langchain-core>=0.2.0
+langchain-groq>=0.1.0
+langchain-community>=0.0.10
+sentence-transformers==2.2.2
+faiss-cpu>=1.7.4
+pandas>=2.0.0
+openpyxl>=3.1.0
+xlrd>=2.0.1
+transformers>=4.36.0
+torch>=2.0.0
